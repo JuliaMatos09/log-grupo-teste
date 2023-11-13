@@ -1,0 +1,4 @@
+nov. 13, 2023 6:20:48 PM Log main
+INFO: My first log
+nov. 13, 2023 6:20:48 PM Log main
+INFO: Hi How r u?
